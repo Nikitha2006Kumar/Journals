@@ -1,0 +1,21 @@
+Name: Nikitha Kumar
+Journal:W1002
+Date: 20-Aug-2021
+I received assistance from: No one
+I assisted: No one
+
+1.1  Name at least two other services that you perspnally use which are implemented using a client server model- I use Text messaging and Instagram.
+
+1.2  It appears that both Jack Williams and John Williams can have a directory of the same name. Do you think the ability to have two different users create a directory of the same name is important? Why? - I believe it is important because it creates an easy way to find other peoples files because everything will have the same name.
+
+2.1  Why do you think the home directory has a special symbol to represent it? - It is a unique name to represent the home directory and will not get confused with anything else.
+
+2.2  Did the prompt change? If so, how? Why is this useful? - Yes, the prompt changes, this is useful to check and add new directories in different prompts.
+
+What did I learn? What is the "big idea"?- I learned about the basic layout of files/ directories and basic commands such as changing from one directory to another.
+
+What challenges did I encounter?- I struggled understanding how to download the extension and login 
+
+How could this experience be improved?- Maybe the teacher could explain the codeing first before the website because sometimes the website rushes through things and is hard to understand.
+
+Free Reflection: How has what I've learned impacted my thinking?- I have learned to pay more attention to the small details the website says, and try to memorize as I go
